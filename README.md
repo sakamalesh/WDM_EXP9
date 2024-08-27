@@ -26,5 +26,10 @@ for this purpose.
 
 
 ### Output:
+![Screenshot 2024-08-27 214459](https://github.com/user-attachments/assets/d0834cf6-3d69-4298-b5fd-3e1ecaeb3b76)
+![Screenshot 2024-08-27 214446](https://github.com/user-attachments/assets/edacc9bc-1f27-4f3b-aa98-c0522671dd2a)
+![Screenshot 2024-08-27 214433](https://github.com/user-attachments/assets/bea2c4ef-8ee9-484b-940c-933bd022ddfe)
+
 
 ### Result:
+Text pre processing is done with Rapid Miner and output in received.
